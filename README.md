@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Full stack Devloper<br>👯 This Account contain some of my personal and school projects<br>🌱 I’m currently learning Nuxt Js<br>⚡ Fun fact: JavaScript was probably named after Java
+🔭 I’m currently working as Full stack Devloper<br>👯 This Account contain some of my personal and school projects<br>🌱 I’m currently learning Next Js<br>⚡ Fun fact: JavaScript was probably named after Java
 
 
 # 💻 Tech Stack:
