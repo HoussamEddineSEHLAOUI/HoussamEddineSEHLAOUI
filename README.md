@@ -12,15 +12,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HoussamEddineSEHLAOUI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-const firebaseConfig = {
-  apiKey: "AIzaSyADOdypHnoG3QOtGmbKvaPeZmcsGkhhuy4",
-  authDomain: "medico-chat-79970.firebaseapp.com",
-  databaseURL: "https://medico-chat-79970-default-rtdb.firebaseio.com",
-  projectId: "medico-chat-79970",
-  storageBucket: "medico-chat-79970.appspot.com",
-  messagingSenderId: "219983654768",
-  appId: "1:219983654768:web:882668163d6c87f01e69b5",
-  measurementId: "G-RZTHBQ158H"
-};
